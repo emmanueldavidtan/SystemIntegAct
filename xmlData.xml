@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library>
+  <name>Main Library</name>
+  <books>
+    <book>
+      <id>1</id>
+      <title>Clean Code</title>
+      <author>Emman Tan</author>
+    </book>
+    <book>
+      <id>2</id>
+      <title>I Don't Know JS</title>
+      <author>Emman Tan</author>
+    </book>
+  </books>
+</library>
