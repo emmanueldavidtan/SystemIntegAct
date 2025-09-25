@@ -1,0 +1,9 @@
+{
+  "library": {
+    "name": "Main Library",
+    "books": [
+      { "id": 1, "title": "Clean Code", "author": "Emman Tan" },
+      { "id": 2, "title": "I Don't Know JS", "author": "Emman Tan" }
+    ]
+  }
+}
